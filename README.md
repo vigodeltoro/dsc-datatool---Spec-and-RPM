@@ -1,7 +1,5 @@
 # dsc-datatool---Spec-and-RPM
 
-# 2016-11-23 Christian Petrasch
-
 This is a SPEC file for CentOS 7.2 for building the dsc-datatool xml transcoder for DSC collected data.
 The RPM could be build be running "rpmbuild -ba dsc-datatool.spec" in a CentOS 7.2 build environment.
 
