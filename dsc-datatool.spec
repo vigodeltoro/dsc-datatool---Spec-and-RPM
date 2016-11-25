@@ -13,6 +13,7 @@ Requires: epel-release perl-Module-Find perl-libxml-perl perl-YAML-Tiny perl-com
 
 %description
 DSC Datatool - Tool for converting, exporting, merging and transforming DSC data 
+# Spec-File by Christian Petrasch
 
 %prep
 cd /root/rpmbuild/SOURCES/
